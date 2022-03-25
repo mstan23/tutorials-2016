@@ -1,0 +1,15 @@
+from plistlib import PlistFormat
+
+
+Plugged_In = Arduino
+counter = 0
+void loop{
+    
+    While Plugged_In = False:
+        if(counter = 0):
+            print("Yo shit aint plugged in")
+    
+    if(Plugged_In = True):
+        if (counter = 1):
+            print("Yo shit is plugged in") 
+            counter = 0 
